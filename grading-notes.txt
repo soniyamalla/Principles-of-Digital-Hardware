@@ -1,0 +1,6 @@
+
+Grade: 1.0 (PASS)
+
+Additional Notes:
+- WARNING: Simultion doesn't go through inputs in same order as truth table. This won't be accepted in the future.
+- Overall, great work!
